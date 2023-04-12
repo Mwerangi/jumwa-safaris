@@ -13,4 +13,7 @@ $headers = "From: noreply@yoursite.com";
 if($email!=NULL){
     mail($to,$subject,$txt,$headers);
 }
+
+//redirect
+header("Location:received.php");
 ?>
