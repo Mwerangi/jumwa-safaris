@@ -205,7 +205,7 @@
             <div class="pick-item">
               <h3>Serengeti Migration</h3>
               <h5>Africa's Race for life</h5>
-              <a href="views/northern/index.php"><img src="assets/img/wild/nyumbu.jpg" alt="" class="img-fluid"></a>
+              <a href="views/northern/index.php"><img src="assets/img/wild/WildBeast.jpg" alt="" class="img-fluid"></a>
               <p class="m-2 text-justify">
                 The journey for the key players in the Great Migration, the roughly two million wildebeest, starts in the south of the Serengeti, with the birth of half a million calves between January and March. 
                 A favourite season for many of the seasoned Serengeti guides: the air during these months is full of new life and action.

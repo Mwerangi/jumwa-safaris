@@ -61,8 +61,8 @@
             </div>
 
             <div class="tab-pane" id="tab-2">
-              <h3>5 Days standard Kenyan Safari</h3>
-              <img src="assets/img/kenya/11.jpg" alt="" class="img-fluid">
+              <h3>5 Days standard Kenyan Safari</h3> 
+              <img src="assets/img/wild/wildbeast_migration.jpg" alt="" class="img-fluid">
                 <p>The best 5 Days Holiday to experience the bauty of kenya, such as Amboseli National Park: The best Kenyan National Park to view the African Elephants and also a great place to view Afri-ca’s highest Mountain, Mt. Kilimanjaro.
                 </p>
                 <a class="btn btn-sm btn-outline-success" href="views/kenya/fivedays.php" >Explorer More</a>

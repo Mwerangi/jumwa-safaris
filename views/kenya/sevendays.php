@@ -17,9 +17,8 @@
           <div class="swiper-slide"><a class="gallery-lightbox" href="assets/img/kenya/3.jpg"><img src="assets/img/kenya/3.jpg" class="img-fluid" alt=""></a></div>
           <div class="swiper-slide"><a class="gallery-lightbox" href="assets/img/kenya/4.jpg"><img src="assets/img/kenya/4.jpg" class="img-fluid" alt=""></a></div>
           <div class="swiper-slide"><a class="gallery-lightbox" href="assets/img/kenya/5.jpg"><img src="assets/img/kenya/5.jpg" class="img-fluid" alt=""></a></div>
-          <div class="swiper-slide"><a class="gallery-lightbox" href="assets/img/kenya/6.jpg"><img src="assets/img/kenya/6.jpg" class="img-fluid" alt=""></a></div>
+          <div class="swiper-slide"><a class="gallery-lightbox" href="assets/img/wild/girraphe_1.jpg"><img src="assets/img/wild/girraphe_1.jpg" class="img-fluid" alt=""></a></div>
           <div class="swiper-slide"><a class="gallery-lightbox" href="assets/img/kenya/7.jpg"><img src="assets/img/kenya/7.jpg" class="img-fluid" alt=""></a></div>
-          <div class="swiper-slide"><a class="gallery-lightbox" href="assets/img/kenya/8.jpg"><img src="assets/img/kenya/8.jpg" class="img-fluid" alt=""></a></div>
         </div>
         <div class="swiper-pagination"></div>
       </div>

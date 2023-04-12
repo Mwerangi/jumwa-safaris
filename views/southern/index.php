@@ -153,7 +153,7 @@
             <div class="tab-pane" id="tab-7">
                 <h3>7 Days Southern Circuit Safari</h3>
                 <p class="fst-italic">7 Days Southern Tanzania Guided Safari to Nyerere (Selous), Mikumi & Ruaha Safari.</p>
-                <img src="assets/img/wild/kifaru.jpg" alt="" class="img-fluid">
+                <img src="assets/img/wild/mikumi.jpg" alt="" class="img-fluid">
                 <p>
                     Perfect as an adventure for wildlife enthusiasts, serious safari-goers or newcomers alike, this journey promises the best of Southern Tanzania has to offer with an amazing selection of 
                     iconic parks & reserves for you to experience in all their glory.
