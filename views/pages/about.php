@@ -73,25 +73,25 @@
             <img src="assets/img/about/md.jpeg" alt="" class="img-fluid rounded-circle w-50 mb-4">
             <h4>Juma Mwanga</h4>
             <span class="d-block mb-3 text-uppercase">Managing Director</span>
-            <p>His goal is to make sure that the tour guide services are provided and deriverd succesful. While enjoying and loving what he is doing up to make his start his own company, which allows him to share experience and thought.</p>
+            <p>His goal is to make sure that the tour guide services are provided and deriverd succesful. While enjoying and loving what he is doing, he decided to start his own company, which allows him to share experience and thought.</p>
           </div>
           <div class="col-lg-4 text-center mb-5">
             <img src="assets/img/about/shayo.jpg" alt="" class="img-fluid rounded-circle w-50 mb-4">
             <h4>Veronica J Shayo</h4>
             <span class="d-block mb-3 text-uppercase">Medical Personnel</span>
-            <p>Born with passionate to serve and care, she is very organized to what she is doing making her clients fall in love with what she is doing. Very commited on her work with more than 7 years as medical personnel.</p>
+            <p>Born with passionate to serve and care, she is very organized to what she is doing making her clients fall in love with what she is doing. Veronica is very commited on her work with more than 7 years as medical personnel.</p>
           </div>
           <div class="col-lg-4 text-center mb-5">
             <img src="assets/img/about/driver_1.jpeg" alt="" class="img-fluid rounded-circle w-50 mb-4">
             <h4>Lumato Ignas</h4>
             <span class="d-block mb-3 text-uppercase">Tour Guide</span>
-            <p>He has been in the industry for more than 8 years, as th safari guide, he likes to know client's preferencs so as not to make his own assumptions</p>
+            <p>He has been in the industry for more than 8 years, as the safari guide, he prefers to know his client's preferencs so as not to make his own assumptions on what to provide.</p>
           </div>
           <div class="col-lg-4 text-center mb-5">
             <img src="assets/img/about/guide2.jpg" alt="" class="img-fluid rounded-circle w-50 mb-4">
             <h4>Sweetbert Gidion</h4>
             <span class="d-block mb-3 text-uppercase">Tour Guide</span>
-            <p>With more than 10 years serving as the tour guide, he has the experience that best suite in the tourism industry. He is passionate about making guest happy and like nature in general.</p>
+            <p>With more than 10 years serving as the tour guide, he has the experience that best suite in the tourism industry. He is passionate about making his guests happy and he likes nature in general.</p>
           </div>
         </div>
       </div>
