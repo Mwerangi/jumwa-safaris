@@ -272,7 +272,7 @@
           If you are not sure of what to decide or have something else in mind, please let us know what you are thinking, and we will get back to you with the best package suitable for your requirements</p>
       </div>
 
-      <form action="views/processing/request.php" method="post" role="form" class="php-email-form" data-aos="fade-up" data-aos-delay="100">
+      <form action="views/processing/request.php" method="post" role="form" class="php-email-form" data-aos="fade-up">
         <div class="row">
           <div class="col-md-4 form-group">
             <input type="text" name="name" class="form-control" id="name" placeholder="Your Name" required>
@@ -289,7 +289,7 @@
             <input type="datetime" name="expectedpeople" class="form-control datepicker" id="expectedpeople" placeholder="Number of people" required>
           </div>
           <div class="col-md-4 form-group mt-3">
-            <input type="datetime" name="date" class="form-control datepicker" id="date_arrival" placeholder="Expected Date of Arrival" required>
+            <input type="date" name="date" class="form-control datepicker" id="date_arrival" placeholder="Expected Date of Arrival" required>
           </div>
           <div class="col-md-4 form-group mt-3">
             <select name="safari" id="safari" class="form-select">
