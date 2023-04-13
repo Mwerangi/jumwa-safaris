@@ -1,6 +1,6 @@
 <?php
 
-    $to = "damazee@gmail.com";
+    $to = "info@jumwaafricansafaris.com";
     $from = $_REQUEST['email'];
     $name = $_REQUEST['name'];
     $subject = $_REQUEST['subject'];
