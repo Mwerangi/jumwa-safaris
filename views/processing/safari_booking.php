@@ -22,7 +22,7 @@
 	$body .= "<td style='border:none;'><strong>Sender name:</strong> {$name}</td>";
 	$body .= "<td style='border:none;'><strong>Safari Name:</strong> {$safari}</td>";
 	$body .= "<td style='border:none;'><strong>Number Of People:</strong> {$people}</td>";
-	$body .= "<td style='border:none;'><strong>Minor included..?:</strong> {$minor}</td>";
+	$body .= "<td style='border:none;'><strong>Minor included.?:</strong> {$minor}</td>";
 	$body .= "<td style='border:none;'><strong>Expected date of arrival:</strong> {$date}</td>";
 	$body .= "<td style='border:none;'><strong>Email:</strong> {$from}</td>";
 	$body .= "</tr>";
