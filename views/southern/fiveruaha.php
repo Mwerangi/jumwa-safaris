@@ -1,6 +1,4 @@
 <?php include '../layouts/header.php'; ?>
-    <!-- ======= Frequently Asked Questioins Section ======= -->
-   <!-- ======= Gallery Section ======= -->
    <section id="gallery" class="gallery mt-4">
     <br>
     <span class="mt-4"></span>
