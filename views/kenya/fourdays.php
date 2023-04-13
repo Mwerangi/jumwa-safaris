@@ -69,7 +69,7 @@
           </ul>
         </div>
         <div class="col-md-6">
-        @include('components.package_info')
+  <?php include '../components/package_info.php'; ?>
         <button type="button" class="btn btn-sm btn-outline-success mt-4" data-bs-toggle="modal" data-bs-target="#exampleModal" data-bs-whatever="Four Days at Kenya National Park Safari"> Request Quotation </button>
         <div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
             <div class="modal-dialog modal-lg">
