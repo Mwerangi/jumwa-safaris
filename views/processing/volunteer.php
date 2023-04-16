@@ -40,8 +40,8 @@
 	$body .= "<tr><td style='border:none;'><strong>Does Have experience?:</strong> {$experience}</td></tr>";
 	$body .= "<tr><td style='border:none;'><strong>Any additional Skills:</strong> {$skill}</td></tr>";
     // Add selected volunteering categories to email body
-	if(isset($_POST['volunteering'])) {
-		$body .= "<tr><td style='border:none;'><strong>Volunteering Categories:</strong> " . implode(', ', $_POST['volunteering']) . "</td></tr>";
+	if(isset($_REQUEST['volunteering'])) {
+		$body .= "<tr><td style='border:none;'><strong>Volunteering Categories:</strong> " . implode(', ', $_REQUEST['volunteering']) . "</td></tr>";
 	}
 	$body .= "<tr><td></td></tr>";
 	$body .= "<tr><td colspan='2' style='border:none;'>{$message}</td></tr>";
