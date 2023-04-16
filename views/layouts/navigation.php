@@ -36,6 +36,7 @@
             </ul>
           </li>
           <li><a href="views/pages/contact.php">Contact Us </a></li>
+          <li><a href="views/pages/volunteer.php">Voluntering</a></li>
         </ul>
         <i class="bi bi-list mobile-nav-toggle"></i>
       </nav>

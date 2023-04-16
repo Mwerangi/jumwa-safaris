@@ -1,2 +1,2 @@
-# jumwa-safaris
+# Jumwa African safaris - Toursim industry
  

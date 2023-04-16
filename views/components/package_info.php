@@ -9,7 +9,7 @@
                 <li>Park Entrance fees </li>
                 <li>Safari car (4 Wheel drive)</li>
                 <li>All Meals</li>
-                <li>Accomodation at Camp Bastian</li>
+                <li>Accomodation</li>
                 <li>Tour Guide</li>
                 <li>1.5 liter of mineral water during game drives</li>
                 <li>Medical evacuation</li>

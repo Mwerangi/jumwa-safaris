@@ -1,6 +1,6 @@
 <?php
 
-    $to = "sales@jumwaafricansafaris.com";
+    $to = "booking@jumwaafricansafaris.com";
     $from = $_REQUEST['email'];
     $name = $_REQUEST['name'];
     $safari = $_REQUEST['safari'];
