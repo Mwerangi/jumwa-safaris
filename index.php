@@ -18,11 +18,11 @@
 
   <!-- ======= Featured Services Section ======= -->
   <section id="featured-services" class="featured-services">
-    <div class="container" data-aos="fade-up">
+    <div class="container">
 
       <div class="row">
         <div class="col-md-6 col-lg-3 d-flex align-items-stretch mb-5 mb-lg-0">
-          <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
+          <div class="icon-box">
             <div class="icon"><i class="fa-solid fa-location-dot"></i></div>
             <h4 class="title"><a href="views/northern/index.php">Northern Circuit</a></h4>
             <p class="description">The Northern Circuit is known for Tanzania’s most world famous parks and includes the Serengeti, Ngorongoro Crater,
@@ -32,7 +32,7 @@
         </div>
 
         <div class="col-md-6 col-lg-3 d-flex align-items-stretch mb-5 mb-lg-0">
-          <div class="icon-box" data-aos="fade-up" data-aos-delay="200">
+          <div class="icon-box" >
             <div class="icon"><i class="fa-solid fa-mountain-sun"></i></div>
             <h4 class="title"><a href="views/southern/index.php">Southern Circuit</a></h4>
             <p class="description">The lesser-trodden Southern Circuit includes the Selous Game Reserve, the Udzungwa Mountains, Mikumi, and
@@ -42,7 +42,7 @@
         </div>
 
         <div class="col-md-6 col-lg-3 d-flex align-items-stretch mb-5 mb-lg-0">
-          <div class="icon-box" data-aos="fade-up" data-aos-delay="300">
+          <div class="icon-box">
             <div class="icon"><i class="fa-solid fa-umbrella-beach"></i></div>
             <h4 class="title"><a href="views/zanzibar/index.php">Zanzibar Tourism</a></h4>
             <p class="description">The beauty & history of Zanzibar is vibrantly alive in the form of traditional sailing vessels (dhows), carved wooden doors, the narrow, maze-like 
@@ -52,7 +52,7 @@
         </div>
 
         <div class="col-md-6 col-lg-3 d-flex align-items-stretch mb-5 mb-lg-0">
-          <div class="icon-box" data-aos="fade-up" data-aos-delay="400">
+          <div class="icon-box">
             <div class="icon"><i class="fa-solid fa-location-arrow"></i></div>
             <h4 class="title"><a href="views/culture/index.php">Culture Tourism</a></h4>
             <p class="description">Tanzania, known for its various authentic cultures. Starting from the humbleness, respect, & loving nature of its people towards visitors
@@ -112,7 +112,6 @@
             <h2><a href="views/northern/sixcamping.php">Six Days Camping at Northern Tanzania Parks Safari</a></h2>
             <p class="mb-4 d-block">Our 6 day Camping safari in Tanzania specifically include the Lake Manyara, Serengeti, Ngorongoro Crater and Tarangire. This specific Camping safaris itinerary has been designed for 
               visitors with more time on hand for a longer safari or travel tours. </p>
-
             <div class="d-flex align-items-center author">
               <div class="photo"><i class="fa-sharp fa-solid fa-arrow-right"></i></div>
               <div class="name">

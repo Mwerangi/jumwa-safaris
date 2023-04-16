@@ -26,10 +26,13 @@
               <li><a href="views/northern/index.php">Northern Circuit</a></li>
               <li><a href="views/zanzibar/index.php">Zanzibar Toursim</a></li>
               <li><a href="views/kenya/index.php">Kenya Tourism</a></li>
-              <li><a href="views/culture/index.php">Culture/Trekking Safaris</a></li>
             </ul>
           </li>
-          <li><a href="views/kilimanjaro/index.php">Mount Kilimanjaro</a></li>
+          <!-- <li class="dropdown"><a href="views/culture/index.php"><span>Trekking Safaris</span></a> -->
+            <ul>
+                <li><a href="views/kilimanjaro/index.php">Mount Kilimanjaro</a></li>
+            </ul>
+          </li>
           <li><a href="views/pages/about.php">About Us</a></li>
           <li><a href="views/pages/contact.php">Reach Us </a></li>
         </ul>
