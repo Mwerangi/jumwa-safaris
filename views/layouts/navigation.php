@@ -20,6 +20,7 @@
       <nav id="navbar" class="navbar order-last order-lg-0">
         <ul>
           <li><a class="nav-link scrollto " href="index.php">Home</a></li>
+          <li><a href="views/pages/about.php">About Us</a></li>
           <li class="dropdown"><a href="#"><span>Safaris</span> <i class="bi bi-chevron-down"></i></a>
             <ul>
               <li><a href="views/southern/index.php">Southern Circuit</a></li>
@@ -28,13 +29,12 @@
               <li><a href="views/kenya/index.php">Kenya Tourism</a></li>
             </ul>
           </li>
-          <!-- <li class="dropdown"><a href="views/culture/index.php"><span>Trekking Safaris</span></a> -->
+          <li class="dropdown"><a href="views/culture/index.php"><span>Trekking Safaris</span><i class="bi bi-chevron-down"></i></a>
             <ul>
                 <li><a href="views/kilimanjaro/index.php">Mount Kilimanjaro</a></li>
             </ul>
           </li>
-          <li><a href="views/pages/about.php">About Us</a></li>
-          <li><a href="views/pages/contact.php">Reach Us </a></li>
+          <li><a href="views/pages/contact.php">Contact Us </a></li>
         </ul>
         <i class="bi bi-list mobile-nav-toggle"></i>
       </nav><!-- .navbar -->
