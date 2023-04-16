@@ -25,11 +25,12 @@
             <ul>
               <li><a href="views/southern/index.php">Southern Circuit</a></li>
               <li><a href="views/northern/index.php">Northern Circuit</a></li>
+              <li><a href="views/western/index.php">Western Circuit</a></li>
               <li><a href="views/zanzibar/index.php">Zanzibar Toursim</a></li>
               <li><a href="views/kenya/index.php">Kenya Tourism</a></li>
             </ul>
           </li>
-          <li class="dropdown"><a href="views/culture/index.php"><span>Trekking Safaris</span><i class="bi bi-chevron-down"></i></a>
+          <li class="dropdown"><a href="views/culture/index.php"><span>Trekking</span><i class="bi bi-chevron-down"></i></a>
             <ul>
                 <li><a href="views/kilimanjaro/index.php">Mount Kilimanjaro</a></li>
             </ul>
@@ -37,9 +38,8 @@
           <li><a href="views/pages/contact.php">Contact Us </a></li>
         </ul>
         <i class="bi bi-list mobile-nav-toggle"></i>
-      </nav><!-- .navbar -->
-  
+      </nav>
+      <!-- .navbar -->
       <a href="#appointment" class="appointment-btn scrollto"><span class="d-none d-md-inline">Book a</span> Safari</a>
-  
     </div>
   </header><!-- End Header -->

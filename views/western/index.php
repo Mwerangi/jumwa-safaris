@@ -6,7 +6,7 @@
     <div class="container " data-aos="fade-up">
         <div class="section-title mt-2"></div>
       <div class="section-title mt-2">
-        <h2>Southern Circuit Tourism</h2>
+        <h2>Western Circuit Tourism</h2>
         <p>
             Discovering Southern Circuit Safaris in Tanzania: Ruaha National Park and Nyerere National Park (formerly Selous). 
             Tanzania has just about everything you could wish for in an African safari holidayThe lesser-trodden Southern Circuit includes the Selous Game Reserve,
